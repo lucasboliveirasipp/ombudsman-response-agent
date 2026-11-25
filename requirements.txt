@@ -1,0 +1,9 @@
+PyPDF2
+azure-ai-documentintelligence
+azure-core
+langchain-openai>=0.2,<1.0
+pandas
+pymongo
+python-docx
+python-dotenv
+streamlit>=1.29
